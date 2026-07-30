@@ -178,7 +178,7 @@ Without leaving your workflow.
 
 ### Smart Search
 
-![Smart Searchthubusercontent.com/Mkhimer69/RapidResponse/refs/heads/main/screenshots/smart-search.png
+![smart-search](https://raw.githubusercontent.com/Mkhimer69/RapidResponse/refs/heads/main/screenshots/smart-search.png)
 
 Real-time slash command search with intelligent snippet suggestions.
 
@@ -186,7 +186,9 @@ Real-time slash command search with intelligent snippet suggestions.
 
 ### Snippet Management
 
-https://raw.githubusercontent.com/Mkhimer69/RapidResponse/refs/heads/main/screenshots/snippet-management.png
+![snippet-management](https://raw.githubusercontent.com/Mkhimer69/RapidResponse/refs/heads/main/screenshots/snippet-management.png
+)
+
 
 Create, edit, and manage reusable responses directly from the application.
 
@@ -194,8 +196,8 @@ Create, edit, and manage reusable responses directly from the application.
 
 ### Clipboard Workflow
 
-https://raw.githubusercontent.com/Mkhimer69/RapidResponse/refs/heads/main/screenshots/clipboard-workflow.png
-
+![clipboard-workflow](https://raw.githubusercontent.com/Mkhimer69/RapidResponse/refs/heads/main/screenshots/clipboard-workflow.png
+)
 Select a snippet, press **Enter**, and instantly copy the response to your clipboard, ready to paste anywhere.
 
 ---
