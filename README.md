@@ -2,8 +2,7 @@
 
 > Find. Insert. Paste.
 
-🚀 **Live Application**
-
+🚀 **Live Application:**  
 [Launch RapidResponse](https://script.google.com/macros/s/AKfycbxwo84ljC1eKCcENb5YOVl5bVxGklezboAYXxsx4Yr1LC6CB3e2sY-ArCLtl_H_OjjngA/exec)
 
 A lightweight personal snippet manager that helps support professionals create, organize, search, and reuse responses instantly through slash commands and real-time search.
