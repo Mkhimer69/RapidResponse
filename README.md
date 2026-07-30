@@ -1,6 +1,6 @@
 # RapidResponse
 
-> Type less. Respond faster.
+> Find. Insert. Paste.
 
 A lightweight personal snippet manager that helps support professionals create, organize, search, and reuse responses instantly through slash commands and real-time search.
 
@@ -18,7 +18,7 @@ The application automatically provisions and maintains a private snippet reposit
 
 ## Why RapidResponse?
 
-Support professionals, helpdesk agents, moderators, customer service representatives, and operational teams often type the same responses dozens of times every day.
+Support professionals, helpdesk agents, moderators, customer service representatives, and operations teams often type the same responses dozens of times every day.
 
 RapidResponse helps by providing:
 
@@ -43,7 +43,37 @@ Create snippets such as:
 /damage
 ```
 
-and insert them instantly.
+Start typing and RapidResponse instantly suggests matching responses.
+
+---
+
+### 🖱️ One-Click Insertion
+
+Select a snippet from the suggestion list to immediately insert its content into the editor.
+
+No need to manually copy or search through notes.
+
+---
+
+### ⌨️ Instant Clipboard Workflow
+
+Press **Enter** at any time to instantly copy the current content to the clipboard.
+
+The editor automatically clears itself and the response is immediately ready to paste anywhere.
+
+```text
+Type
+↓
+Search
+↓
+Select
+↓
+Press Enter
+↓
+Paste
+```
+
+Designed to keep your hands on the keyboard and maximize speed.
 
 ---
 
@@ -85,12 +115,6 @@ Manage your responses directly from the application.
 
 ---
 
-### 📋 Instant Clipboard Workflow
-
-Press Enter and your generated response is immediately copied to the clipboard, ready to paste anywhere.
-
----
-
 ### ☁️ Automatic Storage
 
 RapidResponse automatically creates and maintains a personal Google Sheets repository for each user.
@@ -101,36 +125,58 @@ No manual configuration required.
 
 ---
 
-## Screenshots
+## How It Works
 
-Screenshots will be added soon.
-
----
-
-## Example Workflow
-
-### Create a Snippet
+### Step 1: Create a Snippet
 
 ```text
 Code: /thanks
 Name: Thank Customer
+
 Message:
 Thank you for contacting our support team.
 Please let us know if you need any additional assistance.
 ```
 
-### Use a Snippet
+### Step 2: Search
+
+Type:
 
 ```text
 /thanks
 ```
 
-Result:
+RapidResponse immediately searches your personal snippet library.
 
-```text
-Thank you for contacting our support team.
-Please let us know if you need any additional assistance.
-```
+### Step 3: Insert
+
+Click the suggestion from the search results.
+
+The contents are inserted automatically into the editor.
+
+### Step 4: Copy
+
+Press **Enter**.
+
+The response is instantly copied to your clipboard.
+
+### Step 5: Paste Anywhere
+
+Paste into:
+
+- Live Chat
+- Email
+- Ticketing Systems
+- CRM Platforms
+- Documentation Tools
+
+Without leaving your workflow.
+
+---
+
+## Screenshots
+
+Screenshots will be added soon.
 
 ---
 
@@ -166,10 +212,11 @@ User
  ▼
 RapidResponse
  │
- ├── Snippet Search
+ ├── Smart Search
  ├── Slash Commands
  ├── Snippet Editor
  ├── Clipboard Integration
+ ├── Create / Edit / Delete
  │
  ▼
 Google Apps Script
@@ -188,19 +235,19 @@ Store frequently used customer responses.
 
 ### Technical Support
 
-Create troubleshooting templates and troubleshooting guides.
+Maintain troubleshooting instructions and escalation templates.
 
 ### Help Desk
 
-Maintain reusable ticket responses.
-
-### Operations Teams
-
-Quickly access standard operational communication.
+Create reusable ticket responses and communications.
 
 ### Workforce Management
 
-Store attendance, scheduling, and communication templates.
+Store attendance, scheduling, and operational communication templates.
+
+### Operations Teams
+
+Maintain standardized internal communications and procedures.
 
 ---
 
@@ -213,7 +260,7 @@ Store attendance, scheduling, and communication templates.
 - Usage statistics
 - Import and export
 - Theme customization
-- Shared team repositories
+- Optional shared team repositories
 
 ---
 
@@ -225,7 +272,7 @@ See `CHANGELOG.md` for release history and notable changes.
 
 ## Roadmap
 
-See `ROADMAP.md` for upcoming features and future development plans.
+See `ROADMAP.md` for planned enhancements and future development efforts.
 
 ---
 
