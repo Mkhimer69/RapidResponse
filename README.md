@@ -176,7 +176,27 @@ Without leaving your workflow.
 
 ## Screenshots
 
-Screenshots will be added soon.
+### Smart Search
+
+https://raw.githubusercontent.com/Mkhimer69/RapidResponse/refs/heads/main/screenshots/smart-search.png
+
+Real-time slash command search with intelligent snippet suggestions.
+
+---
+
+### Snippet Management
+
+https://raw.githubusercontent.com/Mkhimer69/RapidResponse/refs/heads/main/screenshots/snippet-management.png
+
+Create, edit, and manage reusable responses directly from the application.
+
+---
+
+### Clipboard Workflow
+
+https://raw.githubusercontent.com/Mkhimer69/RapidResponse/refs/heads/main/screenshots/clipboard-workflow.png
+
+Select a snippet, press **Enter**, and instantly copy the response to your clipboard, ready to paste anywhere.
 
 ---
 
@@ -214,9 +234,8 @@ RapidResponse
  │
  ├── Smart Search
  ├── Slash Commands
- ├── Snippet Editor
- ├── Clipboard Integration
- ├── Create / Edit / Delete
+ ├── Snippet Management
+ ├── Clipboard Workflow
  │
  ▼
 Google Apps Script
@@ -231,19 +250,19 @@ Personal Google Sheets Repository (RP)
 
 ### Customer Support
 
-Store frequently used customer responses.
+Store frequently used customer responses and resolutions.
 
 ### Technical Support
 
-Maintain troubleshooting instructions and escalation templates.
+Maintain troubleshooting instructions, escalation templates, and repair workflows.
 
 ### Help Desk
 
-Create reusable ticket responses and communications.
+Create reusable ticket responses and communication templates.
 
 ### Workforce Management
 
-Store attendance, scheduling, and operational communication templates.
+Store scheduling, attendance, and operational communications.
 
 ### Operations Teams
 
@@ -253,26 +272,38 @@ Maintain standardized internal communications and procedures.
 
 ## Future Enhancements
 
-- Favorite snippets
-- Recently used snippets
-- Snippet categories
-- Tagging system
-- Usage statistics
-- Import and export
-- Theme customization
-- Optional shared team repositories
+- ⭐ Favorite snippets
+- 🕒 Recently used snippets
+- 🏷️ Snippet categories
+- 🏷️ Tagging system
+- 📊 Usage statistics
+- 📥 Import and export
+- 🎨 Theme customization
+- 🤝 Optional shared team repositories
 
 ---
 
 ## Changelog
 
-See `CHANGELOG.md` for release history and notable changes.
+See **CHANGELOG.md** for release history and notable changes.
 
 ---
 
 ## Roadmap
 
-See `ROADMAP.md` for planned enhancements and future development efforts.
+See **ROADMAP.md** for planned enhancements and future development efforts.
+
+---
+
+## Support
+
+Need help or have ideas for improvement?
+
+- 💡 Use the in-app feedback form
+- 🐞 Report bugs through GitHub Issues
+- ✨ Submit feature requests through GitHub Issues
+
+Your feedback helps shape future releases of RapidResponse.
 
 ---
 
