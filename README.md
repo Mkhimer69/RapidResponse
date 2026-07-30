@@ -178,7 +178,7 @@ Without leaving your workflow.
 
 ### Smart Search
 
-https://raw.githubusercontent.com/Mkhimer69/RapidResponse/refs/heads/main/screenshots/smart-search.png
+![Smart Searchthubusercontent.com/Mkhimer69/RapidResponse/refs/heads/main/screenshots/smart-search.png
 
 Real-time slash command search with intelligent snippet suggestions.
 
